@@ -1,4 +1,4 @@
-# simple_operating_system
+# operating_systems
 
 **SCENARIO**: Practice and implement some aspects of an operating system such as scheduling and memory management. The scheduling algorithm used is priority feedback queue, which has some advantages over FIFO and round-robin. The memory management technique considered is segmentation with paging, which divides the main memory into variably-sized segments, which are then divided again into smaller fixed-size pages on disk. This helps reduce memory usage and simplify memory allocation but may causes internal fragmentation. In the end, all the implemented functions are put together for simulation.
 
